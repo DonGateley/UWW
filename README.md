@@ -10,3 +10,5 @@ Transformations between universal phase space points can be thought of or applie
 In fact I consider this an important thing to do if it hasn't been done. It's time, perhaps, to send up a bird with the right horns and some master synchronization capabilities to calibrate our other birds. I suggest the name BFIR (Best Fixed Inertial Reference) space to the project and to the name of the coordinate system that results.
 
 If I'm describing something that can be done short of flying birds I'd love to know more about it.
+
+I created this project as a place for people who might understand it and its importance in order to discuss it and perhaps eventually create the Origin Event and the framework for its use.
