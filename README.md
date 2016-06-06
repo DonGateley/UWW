@@ -12,3 +12,5 @@ In fact I consider this an important thing to do if it hasn't been done. It's ti
 If I'm describing something that can be done short of flying birds I'd love to know more about it.
 
 I created this project as a place for people who might understand it and its possible importance in order to discuss it and perhaps eventually create the Origin Event and the framework for its use.
+
+The reason for calling it CAIN Space is obscure and probably won't last.  Heavy sigh.
