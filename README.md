@@ -9,7 +9,7 @@ Transformations between universal phase space points can be thought of or applie
 
 Conceptually there is a tie in to the user-centric QBist view of quantum mechanics. 
 
-Using a spacetime stamp as a token I could arrange to track the (somewhat) real-time interval between tokens, which is what is usually of greatest interest, and easily allow the saving of universal world lines either absolute or relative (after arbitrary linear transformation.)
+Using a spacetime stamp as a token one could arrange to track the (somewhat) real-time interval between tokens, which is what is usually of greatest interest, and easily allow the saving of universal world lines either absolute or relative (after arbitrary transformation.)
 
 In fact I consider this an important thing to do if it hasn't been done. It's time, perhaps, to send up a bird with the right horns and some master synchronization capabilities to calibrate our other birds.
 
