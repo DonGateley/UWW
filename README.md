@@ -5,7 +5,9 @@ What it takes to anchor spacetime is the act of defining some specific event in 
 
 I can see their use, for example, with blockchain or other crypto technologies where consistency, reliability and utility of meaning is important.
 
-Transformations between universal phase space points can be thought of or applied as services if you have common coin and a common map. That _can't_ be a burdensome process though. Transform decompositions and optimizations must abound.  An application I just thought of would be a standard for the presentation and sensing of virtual reality. My left hand can know where your face is no matter whose gear you wear.  Figuratively and literally.
+Transformations between universal phase space points can be thought of or applied as services if you have common coin and a common map. That _can't_ be a burdensome process though. Transform decompositions and optimizations must abound.  
+
+It could (should) be a standard for the presentation and sensing of virtual reality. My left hand can know where your face is no matter whose gear you wear.  Figuratively and literally.
 
 Conceptually there is a tie in to the user-centric QBist view of quantum mechanics. 
 
