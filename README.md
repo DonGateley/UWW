@@ -5,9 +5,9 @@ What it takes to anchor spacetime is the act of defining some specific event in 
 
 I can see their use, for example, with blockchain or other crypto technologies where consistency, reliability and utility of meaning is important.
 
-Transformations between universal phase space points can be thought of or applied as services if you have common coin and a common map. That _can't_ be a burdensome process though. Transform decompositions and optimizations must abound.  Smartphones (and other systems) should have a Cain() system call that returns an immutable token for an event representing the current approximate position of the device in that coordinate system.
+Transformations between universal phase space points can be thought of or applied as services if you have common coin and a common map. That _can't_ be a burdensome process though. Transform decompositions and optimizations must abound.  Smartphones (and other systems) should have a Cain() system call that returns an immutable token for an event representing the current approximate position of the device in Cain Space.
 
-It could (should) be a standard for the presentation and sensing of virtual reality. My left hand can know where your face is no matter whose gear you wear.  Figuratively and literally.  The phase (sub)space position of everything in my environment is standardized.  Virtual reality spaces can be unversally "mounted" in real spaces by transformation across sensors, brands, and brand names.  The Tower of Babel is gone in a stroke.
+It could (should) be a standard for the presentation and sensing of virtual reality. My left hand can know where your face is no matter whose gear you wear.   The phase (sub)space position of everything in my environment becomes standardized.  Virtual reality spaces can be unversally "mounted" in real spaces by transformation across sensors, brands, and brand names.  The Tower of Babel is gone in a stroke.
 
 Conceptually there is a tie in to the user-centric QBist view of quantum mechanics. 
 
