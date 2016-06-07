@@ -28,4 +28,6 @@ Babylonians invented zero.  Let's give it meaning once and for all.  Help me set
 
 The reason for calling it Cain Space is obscure and probably won't last.  A rationalization is "CMB as inertial name".  Heavy sigh.
 
+A description I just wrote a friend: In simple terms it allows one to time stamp his place in the cosmos, including all relevant motion information, so that even a creature halfway across the visible universe would give it the exact same meaning relative to the cosmos that you and your friend in Santa Cruz do.  Time sequences of these stamps comprise something called a worldline.  You could create a movie and anyone, anywhere in the universe would know and agree exactly where and when that was shot.  One could even tune in to the same place at some time to possibly get more information about it.  It's a static, continuous zipcode system for the cosmos.  It's also, and probably most importantly, a universal file system.
+
 A product to which it's position in Cain space could be added: https://github.com/jins-meme/home/wiki This would get the idea in people's hands before it did their heads.  I ask for the priviledge of setting CainZero while using them.
