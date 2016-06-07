@@ -15,7 +15,7 @@ Using a universal spacetime stamp as a token (a Cain) one could arrange to track
 
 It could provide a new standard framework for geo-history that could be easy to explore and interact with.
 
-A verifiable vote could be registered anywhere. A beacon could be established at any point in spacetime and tracked. You might want to compare what the beacon says with what something else at that same physical point says. Surveying becomes a simple matter of clicking a button at chosen points and saving the results. All are on the same standard.
+A verifiable vote could be registered anywhere. A beacon could be established at any point in spacetime and tracked. You might want to compare what the beacon says with what something else at that same physical point says. Surveying becomes a simple matter of clicking a button at chosen points and saving the results. All are on the same standard.  Pairs of these beacons (with suitable dynamic transforms for and between them) could be used as private communication channels.  Such arbitrary channels can be completely beyond private eyes.  If you don't know the pair of Cains defining the end points and the transforms in between it simply doesn't exist for you.
 
 In fact I consider this an important thing to do if it hasn't been done. It's time, perhaps, to send up a bird with the right horns and some master synchronization capabilities to calibrate our other birds.
 
