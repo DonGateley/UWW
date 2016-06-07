@@ -11,7 +11,7 @@ It could (should) be a standard for the presentation and sensing of virtual real
 
 Conceptually there is a tie in to the user-centric QBist view of quantum mechanics. 
 
-Using a universal spacetime stamp as a token one could arrange to track the (somewhat) real-time, universal interval between tokens or token networks, which is what is usually of greatest interest, and easily allow the saving of Universal World Lines either absolute or relative (after arbitrary transformation.)
+Using a universal spacetime stamp as a token (a Cain) one could arrange to track the (somewhat) real-time, universal interval between tokens or token networks, which is what is usually of greatest interest, and easily allow the saving of Universal World Lines either absolute or relative (after arbitrary transformation.)
 
 It could provide a new standard for geo-history that could be easy to explore and interact with.
 
@@ -23,4 +23,4 @@ I created this project as a place for people who might understand it and its pos
 
 Babylonians invented zero.  Let's give it meaning once and for all.
 
-The reason for calling it CAIN Space is obscure and probably won't last.  A rationalization is "CMB As Inertial Name".  Heavy sigh.
+The reason for calling it Cain Space is obscure and probably won't last.  A rationalization is "CMB As Inertial Name".  Heavy sigh.
