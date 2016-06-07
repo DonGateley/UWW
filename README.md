@@ -7,7 +7,7 @@ I can see their use, for example, with blockchain or other crypto technologies w
 
 Transformations between universal phase space points can be thought of or applied as services if you have common coin and a common map. That _can't_ be a burdensome process though. Transform decompositions and optimizations must abound.  
 
-It could (should) be a standard for the presentation and sensing of virtual reality. My left hand can know where your face is no matter whose gear you wear.  Figuratively and literally.
+It could (should) be a standard for the presentation and sensing of virtual reality. My left hand can know where your face is no matter whose gear you wear.  Figuratively and literally.  The phase (sub)space position of everything in my environment is standardized.
 
 Conceptually there is a tie in to the user-centric QBist view of quantum mechanics. 
 
