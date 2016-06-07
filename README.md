@@ -1,4 +1,3 @@
-# Cain-Space
 Project to establish Cain Space.
 
 What it takes to anchor spacetime is the act of defining some specific event in some CMB's phase space as a standard origin. Then any past or future event relative to it will have a universal and unique phase space coordinate with the same meaning to everyone, everywhere. Universal spacetime stamps seems to me to have conceptual value and contain useful information. I'm not sure what all value yet, just a hunch.
@@ -33,6 +32,6 @@ https://github.com/jins-meme/home/wiki
 
 This would get the idea in people's hands before it did their heads. I ask for the priviledge of setting CainZero while using them. All I need for that is the ability one time to grab a phase space point that is "known" relative to some static CMB that can be defined and sensed anywhere. Publish that here and it's done. Then zero in Cain space, CainZero, can become a transformed interval from that point by declaration. A transform choice to be carefully made.
 
-Does anyone who stumbles here know where I could get my hands on a perfectly good, used even, phase space point measurement registered somewhere from such a space? Anybody well versed in transformations to help me select a point relative to that?
+Does anyone who stumbles here know where I could get my hands on a perfectly good, used even, phase space point measurement registered somewhere from such a space? Anybody well versed in transformations to help me select a point relative to that?  Once set its use can immediately begin.  The sensor can use whatever is the best global positioning channel available but its resolution partially governs the precision within which realities can be made to match.  Near field matching should be a piece of cake regardless of the global accuracy.
 
-Babylonians invented zero. Let's give it meaning once and for all. Help me set and use CainZero.  Once set, its use can immediately begin via common and existing positioning channels using mere snooping.  The higher the resolution of the position reported, of course, the tighter realities can be made to match.
+Babylonians invented zero. Let's give it meaning once and for all. Help me set and use CainZero.
