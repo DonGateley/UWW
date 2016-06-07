@@ -9,7 +9,7 @@ Transformations between universal phase space points can be thought of or applie
 
 It could (should) be a standard for the presentation and sensing of virtual reality. My left hand can know where your face is no matter whose gear you wear.   The phase (sub)space position of everything in my environment becomes standardized.  Virtual reality spaces can be unversally "mounted" in real spaces by transformation across sensors, brands, and brand names.  The Tower of Babel is gone in a stroke.
 
-Conceptually there is a tie in to the user-centric QBist view of quantum mechanics. 
+Conceptually there is a tie in to the user-centric QBist view of quantum mechanics and to the thinking of Neal Stephenson in his brilliant novel Anathem. 
 
 Using a universal spacetime stamp as a token (a Cain) one could arrange to track the (somewhat) real-time, universal interval between tokens or token networks, which is what is usually of greatest interest, and easily allow the saving of Universal World Lines either absolute or relative (after arbitrary transformation.)
 
