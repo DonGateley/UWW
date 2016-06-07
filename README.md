@@ -1,5 +1,5 @@
-#Cain space
-Project to establish Cain space.
+#Cain Space
+Project to establish Cain Space.
 
 What it takes to anchor spacetime is the act of defining some specific event in some CMB's phase space as a standard origin. Then any past or future event relative to it will have a universal and unique phase space coordinate with the same meaning to everyone, everywhere. Universal spacetime stamps seems to me to have conceptual value and contain useful information. I'm not sure what all value yet, just a hunch.
 
@@ -31,8 +31,8 @@ A product to which it's position in Cain space could be added:
 
 https://github.com/jins-meme/home/wiki
 
-This would get the idea in people's hands before it did their heads. I ask for the priviledge of setting CainZero while using them. All I need for that is the ability one time to grab a phase space point that is "known" relative to some static CMB that can be defined and sensed anywhere. Publish that here and it's done. Then zero in Cain space, CainZero, can become that point by declaration. A transform choice to be carefully made.
+This would get the idea in people's hands before it did their heads. I ask for the priviledge of setting CainZero while using them. All I need for that is the ability one time to grab a phase space point that is "known" relative to some static CMB that can be defined and sensed somewhere. Publish that here and it's done. Then zero in Cain space, CainZero, can become a transformed point from that point by declaration. A transform choice to be carefully made.
 
-Does anyone who stumbles here know where I could get my hands on a perfectly good, used even, phase space point measurement registered somewhere from such a space? Anybody well versed in transformations to help me select a point relative to that?  Once set its use can immediately begin.  The sensor can use whatever is the best global positioning channel available but its resolution partially governs the precision within which realities can be made to match.  Near field matching should be a piece of cake regardless of the global accuracy.
+Does anyone who stumbles here know where I could get my hands on a perfectly good, used even, phase space point measurement registered somewhere from such a CMB space? Anybody well versed in transformations that could help me select a point relative to that?  Once set its use can immediately begin.  The device sensor can use whatever is the best global positioning channel available but its resolution partially governs the precision within which realities can be made to match.  Near field matching should be a piece of cake regardless of the global accuracy.
 
 Babylonians invented zero. Let's give it meaning once and for all. Help me set and use CainZero.
