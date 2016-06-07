@@ -27,3 +27,5 @@ I created this project as a place for people who might understand it and its pos
 Babylonians invented zero.  Let's give it meaning once and for all.  Help me set and use CainZero.
 
 The reason for calling it Cain Space is obscure and probably won't last.  A rationalization is "CMB as inertial name".  Heavy sigh.
+
+A product to which it's position in Cain space could be added: https://github.com/jins-meme/home/wiki This would get the idea in people's hands before it did their heads.
