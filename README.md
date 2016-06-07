@@ -19,7 +19,7 @@ In fact I consider this an important thing to do if it hasn't been done. It's ti
 
 If I'm describing something that can be done short of flying birds I'd love to know more about it.
 
-I created this project as a place for people who might understand it and its possible importance in order to discuss it and perhaps eventually create the Origin Event and the framework for its use.
+I created this project as a place for people who might understand it and its possible importance in order to discuss it and perhaps eventually create the Origin Event and the framework for its use.  I have few skills to apply to actually accomplishing it myself.  Consider it preliminary at this particular Cain.
 
 Babylonians invented zero.  Let's give it meaning once and for all.
 
