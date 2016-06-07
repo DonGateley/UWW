@@ -30,4 +30,10 @@ The reason for calling it Cain Space is obscure and probably won't last.  A rati
 
 A description I just wrote a friend: In simple terms it allows one to time stamp his place in the cosmos, including all relevant motion information, so that even a suitably informed creature halfway across the visible universe, would give it the exact same meaning relative to the cosmos that you and your friend in Santa Cruz do.  Time sequences of these stamps comprise something called a worldline.  You could create a movie and anyone, anywhere in the universe would know and agree exactly where and when that was shot.  One could even tune in to the same place at some time to possibly get more information about it.  It's a static, continuous zipcode system for the cosmos.  It's also, and probably most importantly, a universal file system.
 
-A product to which it's position in Cain space could be added: https://github.com/jins-meme/home/wiki This would get the idea in people's hands before it did their heads.  I ask for the priviledge of setting CainZero while using them.  All I need for that is the ability one time to grab a phase space point that is "known" relative to some static CMB that can be defined and sensed anywhere.  Publish that here and it's done.  Then zero in Cain space becomes an interval from that point by declaration.  A choice to be carefully made.
+A product to which it's position in Cain space could be added: 
+
+   https://github.com/jins-meme/home/wiki 
+
+This would get the idea in people's hands before it did their heads.  I ask for the priviledge of setting CainZero while using them.  All I need for that is the ability one time to grab a phase space point that is "known" relative to some static CMB that can be defined and sensed anywhere.  Publish that here and it's done.  Then zero in Cain space, CainZero, can become a transformed interval from that point by declaration.  A transform choice to be carefully made.  
+
+Does anyone who stumbles here know where I could get my hands on a perfectly good, used even, point measurement registered somewhere from such a space?  Anybody well versed in transformations to help me select a point relative to that?
