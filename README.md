@@ -21,6 +21,6 @@ If I'm describing something that can be done short of flying birds I'd love to k
 
 I created this project as a place for people who might understand it and its possible importance in order to discuss it and perhaps eventually create the Origin Event and the framework for its use.
 
-Babylonians invented zero.  Let's give it meaning.
+Babylonians invented zero.  Let's give it meaning once and for all.
 
 The reason for calling it CAIN Space is obscure and probably won't last.  A rationalization is "CMB As Inertial Name".  Heavy sigh.
