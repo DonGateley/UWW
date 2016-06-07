@@ -35,4 +35,4 @@ This would get the idea in people's hands before it did their heads. I ask for t
 
 Does anyone who stumbles here know where I could get my hands on a perfectly good, used even, phase space point measurement registered somewhere from such a space? Anybody well versed in transformations to help me select a point relative to that?
 
-Babylonians invented zero. Let's give it meaning once and for all. Help me set and use CainZero.  Once set, its use can immediately begin. 
+Babylonians invented zero. Let's give it meaning once and for all. Help me set and use CainZero.  Once set, its use can immediately begin.
