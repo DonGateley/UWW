@@ -7,16 +7,20 @@ I can see their use, for example, with blockchain or other crypto technologies w
 
 Transformations between universal phase space points can be thought of or applied as services if you have common coin and a common map. That _can't_ be a burdensome process though. Transform decompositions and optimizations must abound.  
 
-It could (should) be a standard for the presentation and sensing of virtual reality. My left hand can know where your face is no matter whose gear you wear.  Figuratively and literally.  The phase (sub)space position of everything in my environment is standardized.
+It could (should) be a standard for the presentation and sensing of virtual reality. My left hand can know where your face is no matter whose gear you wear.  Figuratively and literally.  The phase (sub)space position of everything in my environment is standardized.  Virtual reality spaces can be unversally "mounted" in real spaces by transformation across sensors, brands, and brand names.  The Tower of Babel is gone in a stroke.
 
 Conceptually there is a tie in to the user-centric QBist view of quantum mechanics. 
 
-Using a spacetime stamp as a token one could arrange to track the (somewhat) real-time interval between tokens, which is what is usually of greatest interest, and easily allow the saving of universal world lines either absolute or relative (after arbitrary transformation.)
+Using a universal spacetime stamp as a token one could arrange to track the (somewhat) real-time, universal interval between tokens or token networks, which is what is usually of greatest interest, and easily allow the saving of Universal World Lines either absolute or relative (after arbitrary transformation.)
+
+It could provide a new standard for geo-history that could be easy to explore and interact with.
 
 In fact I consider this an important thing to do if it hasn't been done. It's time, perhaps, to send up a bird with the right horns and some master synchronization capabilities to calibrate our other birds.
 
 If I'm describing something that can be done short of flying birds I'd love to know more about it.
 
 I created this project as a place for people who might understand it and its possible importance in order to discuss it and perhaps eventually create the Origin Event and the framework for its use.
+
+Babylonians invented zero.  Let's give it meaning.
 
 The reason for calling it CAIN Space is obscure and probably won't last.  Heavy sigh.
