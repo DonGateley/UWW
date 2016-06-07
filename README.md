@@ -23,4 +23,4 @@ I created this project as a place for people who might understand it and its pos
 
 Babylonians invented zero.  Let's give it meaning.
 
-The reason for calling it CAIN Space is obscure and probably won't last.  Heavy sigh.
+The reason for calling it CAIN Space is obscure and probably won't last.  A rationalization is "CMB As Inertial Name".  Heavy sigh.
