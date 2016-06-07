@@ -13,7 +13,9 @@ Conceptually there is a tie in to the user-centric QBist view of quantum mechani
 
 Using a universal spacetime stamp as a token (a Cain) one could arrange to track the (somewhat) real-time, universal interval between tokens or token networks, which is what is usually of greatest interest, and easily allow the saving of Universal World Lines, or Cainlines, either absolute or relative (after arbitrary transformation.)
 
-It could provide a new standard for geo-history that could be easy to explore and interact with.
+It could provide a new standard framework for geo-history that could be easy to explore and interact with.
+
+A verifiable vote could be taken.
 
 In fact I consider this an important thing to do if it hasn't been done. It's time, perhaps, to send up a bird with the right horns and some master synchronization capabilities to calibrate our other birds.
 
