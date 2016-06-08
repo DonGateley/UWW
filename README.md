@@ -11,7 +11,7 @@ Instantiations of type CAINXFORM can hold any standard canonical phase space tra
 
 CainXform3 = CainCompose(CainXform1, CainXform2,...)
 
-Cain2 = CainXform(Cain1, CainXform1) applies CainXform1 to Cain1 where Cain1 is type CAIN or CAINEVENT and the return is of type CAIN. 
+Cain2 = CainXform(Cain1, CainXform1) applies CainXform1 to Cain1 where Cain1 is type CAIN or CAINEVENT and the return is of type CAIN.
 
 Functions are the usual Hamiltonian ones and obey Hamilton's Principle.
 
@@ -29,7 +29,7 @@ I need help with this set of member functions particularly with regards to what 
 
 A JavaScript first implementation would be best.  Of course the Web and and there is almost no device where a JavaScript environment isn't available.  Need a tidy interpreter ans/or simple IDE to develop it.
 
-A CAIN can be used as a hypertext link that actually takes you somewhere in the space.  Information can be associated with it or not.  (Where is that stored?  Let it be always local.  No such burden should be placed on the infrastructure.) The associated information can be, among othr things, the hypertext of a standard web site.  It is totally private until shared in some fashion which could be point to point.  Architecture needed here.  No authorities of any kind allowed.
+A CAIN can be used as a hypertext link that actually takes you somewhere in the space.  Information can be associated with it or not.  (Where is that stored?  Let it be always local.  No such burden should be placed on the infrastructure.) The associated information can be, among other things, the hypertext of a standard web site.  It is totally private until shared in some fashion which could be point to point.  Architecture needed here.  No authorities of any kind allowed.
 
 (Definitions of generating functions and Actions to follow.) https://en.wikipedia.org/wiki/Canonical_transformation.  One can use libraries of canonical transformation tools with a bridge between.  Perhaps such an environment would be the best place to put this.  Anybody know of an existing canonical transform library for Hamiltonian mechanics?  
 
@@ -39,7 +39,7 @@ It could (should) be a standard for the presentation and sensing of virtual real
 
 Conceptually there is a tie in to the user-centric QBist view of quantum mechanics and to the thinking of Neal Stephenson in his brilliant novel Anathem.
 
-Using a universal spacetime stamp as a token (a Cain) one could arrange to track the (somewhat) real-time, universal interval between tokens or token networks, which is what is usually of greatest interest, and easily allow the saving of Universal World Lines, or CainLines, either absolute or relative (after some arbitrary transformation.)
+Using a pair of Cains one could arrange to track the (somewhat) real-time, universal interval between other events (or their transformations), which is what is usually of greatest interest, and easily allow the saving of Universal World Lines, or CainLines, either absolute or relative (after some arbitrary transformation.)
 
 It could provide a new standard framework for geo-history that could be easy to explore and interact with.
 
