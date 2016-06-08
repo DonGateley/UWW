@@ -59,4 +59,4 @@ This in the end could be Internet n.0 where I don't know quite what n is.  Its u
 
 Babylonians invented zero. Let's give it meaning once and for all. Help me set and use CainZero.
 
-This isn't a bad room to think in aloud.
+This isn't a bad room to think in aloud.  I commit to posterity that everything about the room will remain free and open.  If courteous.
