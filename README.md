@@ -5,23 +5,29 @@ What it takes to anchor spacetime is the act of defining some specific event in 
 
 I can see their use, for example, with blockchain or other crypto technologies where consistency, reliability and utility of meaning is important.
 
-Canonical phase space transformations (Hamiltonian) between universal phase space points can be thought of or applied as services if you have common coin and a common map. That can't be a burdensome process though. Transform decompositions and optimizations must abound. Smartphones (and other systems) should have a Cain1 = Cain() system call that returns an immutable token, type CAIN, in Cain1 for an event representing the current approximate position of the device in Cain Space, or the Cainiverse. Instantiations of type CAINXFORM can hold any canonical phase space transformation and they can be composed as CainCompose(CainXform1, CainXform2,...). They can be applied as CainXform(Cain1) where Cain1 is type CAIN and the return is of type CAIN.
+Canonical phase space transformations (Hamiltonian) between universal phase space points can be thought of or applied as services if you have common coin and a common map. That can't be a burdensome process though. Transform decompositions and optimizations must abound. Smartphones (and other systems) should have a Cain1 = CainEvent(CainXform1) system call that returns an immutable token, type CAINEVENT, in Cain1 for an event representing a transformation of the current approximate coordinate of the device in Cain space. A CAINEVENT and a CAIN are the same object except that a CAIN cannot be made into a CAINEVENT, CAINEVENTS are immutable and are the same as a measurement.
+
+Instantiations of type CAINXFORM can hold any standard canonical phase space transformation and they can be composed as 
+
+CainXform3 = CainCompose(CainXform1, CainXform2,...)
+
+Cain2 = CainXform(Cain1, CainXform1) applies CainXform1 to Cain1 where Cain1 is type CAIN or CAINEVENT and the return is of type CAIN. 
 
 Functions are the usual Hamiltonian ones and obey Hamilton's Principle.
 
-CainXform2 = CainDot(CainXform2) is the time derivative of the transform CainXform2
+CainXform2 = CainXform1.CainDot is the time derivative of the transform CainXform1
 
-CainXform2 = CainDotProd(CainXform1, CainXform2) has the ususal meaning.
+CainXform3 = CainXform1.CainDotProd(CainXform2) has the ususal dot product meaning.
 
-CainXform2 = CainPosition(CainXform1) transform representing the position in phase space.
+DATA = CainXform1.CainPosition is instantaneous Minkowski position of token Cain1 transformed by CainXform1 in Cain space.
 
-CainXform2 = CainMomentum(CainXform1) transform representing the momentum in phase space.
+DATA = CainXform1.CainMomentum is instantaneous Minkowski momentum of token Cain1 transformed by CainXform1 in Cain space.
 
-CainPosition1 = CainXform(Cain1, CainPosition(CainXform1)) is instantaneous position of Cain1 transformed by CainXform1 in Cain space.
+CainXform2 = CainXform1.CainPoissonBracket(CainXform2) has the usual definition of Poisson Bracket.
 
-CainMomentum1 = CainXform(Cain1, CainMomentum(CainXform1) is instantaneous momentum of Cain1 transformed by CainXform1 in Cain space.  
+I need help with this set of member functions particularly with regards to what canonical set of tranformations should be admitted and how they should be represented, created, and edited.  The heart of the matter.  Anyone?
 
-CainXform3 = CainPoissonBracket(CainXform1, CainXform2) has the usual definition of Poisson Bracket.
+A JavaScript first implementation would be best.  Of course the Web and and there is almost no device where a JavaScript environment isn't available.  Need a tidy interpreter ans/or simple IDE to develop it.
 
 A CAIN can be used as a hypertext link that actually takes you somewhere in the space.  Information can be associated with it or not.  (Where is that stored?  Let it be always local.  No such burden should be placed on the infrastructure.) The associated information can be, among othr things, the hypertext of a standard web site.  It is totally private until shared in some fashion which could be point to point.  Architecture needed here.  No authorities of any kind allowed.
 
@@ -47,7 +53,7 @@ I created this project as a place for people who might understand it and its pos
 
 The reason for calling it Cain Space is obscure and probably won't last. A rationalization is "CMB as inertial name". Heavy sigh.
 
-A description I just wrote a friend: In simple terms it allows one to time stamp his place in the cosmos, including all relevant motion information, so that even a suitably informed creature halfway across the visible universe, would give it the exact same meaning relative to the cosmos that you and your friend in Santa Cruz do. A consecutive sequence of these stamps comprise something called a worldline. You could create a movie and anyone, anywhere in the connected universe would know and agree exactly where and when that was shot. It could be embedded there as a world line.  You could then anchor it to a camera so that anybody going there in Cain space could see through it in a semblance of real time or delayed.  One could tune in to the same place at some other time to possibly get more information about it. So could someone in the once disconnected universe.  If two disconnected universes run into each other a tracking transform can embed either one into the other.  It's a static, continuous zipcode system for the cosmos. It's also, and probably most importantly, a universal file system.  Not distributed, yet and maybe never.
+A description I just wrote a friend: In simple terms it allows one to time stamp his place in the cosmos, including all relevant motion information, so that even a suitably informed creature halfway across the visible universe, would give it the exact same meaning relative to the cosmos that you and your friend in Santa Cruz do. A consecutive sequence of these stamps comprise something called a worldline. You could create a movie and anyone, anywhere in the connected universe would know and agree exactly where and when that was shot. It could be embedded there as a world line.  You could then anchor it to a camera so that anybody going there in Cain space could see through it in a semblance of real time or delayed.  One could tune in to the same place at some other time to possibly get more information about it. So could someone in the once disconnected universe.  If two disconnected universes run into each other a tracking transform can embed either one into the other.  It's a static, continuous zipcode system for the cosmos. It's also, and probably most importantly, a universal indexable file system.  Not distributed, yet and maybe never.
 
 A product to which it's position in Cain space could be added:
 
