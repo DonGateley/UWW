@@ -21,7 +21,7 @@ CainPosition1 = CainXform(Cain1, CainPosition(CainXform1)) is instantaneous posi
 
 CainMomentum2 = CainXform(Cain1, CainMomentum(CainXform1) is instantaneous momentum of Cain1 transformed by CainXform1 in Cain space.  
 
-CainXform1 = CainPoissonBracket(CainXform2) has the usual definition of Poisson Bracket.
+CainXform3 = CainPoissonBracket(CainXform1, CainXform2) has the usual definition of Poisson Bracket.
 
 (Definitions of generating functions and Actions to follow.) https://en.wikipedia.org/wiki/Canonical_transformation
 
