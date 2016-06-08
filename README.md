@@ -1,7 +1,7 @@
 #Cain Space
 Project to establish Cain Space.
 
-What it takes to anchor spacetime is the act of defining some specific event in some CMB's phase space as a standard origin. Then any past or future event relative to it will have a universal and unique phase space coordinate with the same meaning to everyone simply prepared, everywhere. Universal persistant spacetime stamps seems to me to have conceptual value and contain useful information. I'm not sure what all value yet, just a hunch.
+What it takes to anchor spacetime is the act of defining some specific event in some CMB's phase space as a standard origin. Then any past or future event relative to it will have a universal and unique phase space coordinate with the same meaning to everyone simply prepared, everywhere. Universal, persistant spacetime stamps seems to me to have conceptual value and contain useful information. I'm not sure what all value yet, just a hunch.
 
 I can see their use, for example, with blockchain or other crypto technologies where consistency, reliability and utility of meaning is important.
 
@@ -23,7 +23,7 @@ CainMomentum1 = CainXform(Cain1, CainMomentum(CainXform1) is instantaneous momen
 
 CainXform3 = CainPoissonBracket(CainXform1, CainXform2) has the usual definition of Poisson Bracket.
 
-(Definitions of generating functions and Actions to follow.) https://en.wikipedia.org/wiki/Canonical_transformation.  One can use libraries of canonical transformation tools with a bridge between.
+(Definitions of generating functions and Actions to follow.) https://en.wikipedia.org/wiki/Canonical_transformation.  One can use libraries of canonical transformation tools with a bridge between.  Perhaps such an environment would be the best place to put this.  Anybody know of an existing canonical transform library for Hamiltonian mechanics?
 
 It could (should) be a standard for the presentation and sensing of virtual reality. My left hand can know where your face is no matter whose gear you wear. The phase (sub)space position of everything in my environment becomes standardized. Virtual reality spaces can be unversally "mounted" in real spaces by transformation across sensors, brands, and brand names. The Tower of Babel is gone in a stroke.
 
