@@ -19,11 +19,11 @@ CainXform2 = CainMomentum(CainXform1) transform representing the momentum in pha
 
 CainPosition1 = CainXform(Cain1, CainPosition(CainXform1)) is instantaneous position of Cain1 transformed by CainXform1 in Cain space.
 
-CainMomentum2 = CainXform(Cain1, CainMomentum(CainXform1) is instantaneous momentum of Cain1 transformed by CainXform1 in Cain space.  
+CainMomentum1 = CainXform(Cain1, CainMomentum(CainXform1) is instantaneous momentum of Cain1 transformed by CainXform1 in Cain space.  
 
 CainXform3 = CainPoissonBracket(CainXform1, CainXform2) has the usual definition of Poisson Bracket.
 
-(Definitions of generating functions and Actions to follow.) https://en.wikipedia.org/wiki/Canonical_transformation
+(Definitions of generating functions and Actions to follow.) https://en.wikipedia.org/wiki/Canonical_transformation.  One can use libraries of canonical transformation tools with a bridge between.
 
 It could (should) be a standard for the presentation and sensing of virtual reality. My left hand can know where your face is no matter whose gear you wear. The phase (sub)space position of everything in my environment becomes standardized. Virtual reality spaces can be unversally "mounted" in real spaces by transformation across sensors, brands, and brand names. The Tower of Babel is gone in a stroke.
 
