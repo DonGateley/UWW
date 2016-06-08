@@ -5,7 +5,25 @@ What it takes to anchor spacetime is the act of defining some specific event in 
 
 I can see their use, for example, with blockchain or other crypto technologies where consistency, reliability and utility of meaning is important.
 
-Canonical phase space transformations (Hamiltonian) between universal phase space points can be thought of or applied as services if you have common coin and a common map. That can't be a burdensome process though. Transform decompositions and optimizations must abound. Smartphones (and other systems) should have a Cain() system call that returns an immutable token, type CAIN, for an event representing the current approximate position of the device in Cain Space, or the Cainiverse.  Instantiations of type CAINXFORM can hold any canonical phase space transformation and they can be composed as CainCompose(CainXform1, CainXform2,...).  They can be applied as CainXform(Cain1) where Cain1 is type CAIN and the return is of type CAIN.
+Canonical phase space transformations (Hamiltonian) between universal phase space points can be thought of or applied as services if you have common coin and a common map. That can't be a burdensome process though. Transform decompositions and optimizations must abound. Smartphones (and other systems) should have a Cain() system call that returns an immutable token, type CAIN, for an event representing the current approximate position of the device in Cain Space, or the Cainiverse. Instantiations of type CAINXFORM can hold any canonical phase space transformation and they can be composed as CainCompose(CainXform1, CainXform2,...). They can be applied as CainXform(Cain1) where Cain1 is type CAIN and the return is of type CAIN.
+
+Functions are the usual Hamiltonian ones and obey Hamilton's Principle.
+
+CainXform2 = CainDot(CainXform2) is the time derivative of the transform CainXform2
+
+CainXform2 = CainDotProd(CainXform1, CainXform2) has the ususal meaning.
+
+CainXform2 = CainPosition(CainXform1) transform representing the position in phase space.
+
+CainXform2 = CainMomentum(CainXform1) transform representing the momentum in phase space.
+
+CainPosition1 = CainXform(Cain1, CainPosition(CainXform1)) is instantaneous position of Cain1 transformed by CainXform1 in Cain space.
+
+CainMomentum2 = CainXform(Cain1, CainMomentum(CainXform1) is instantaneous momentum of Cain1 transformed by CainXform1 in Cain space.  
+
+CainXform1 = CainPoissonBracket(CainXform2) has the usual definition of Poisson Bracket.
+
+(Definitions of generating functions and Actions to follow.) https://en.wikipedia.org/wiki/Canonical_transformation
 
 It could (should) be a standard for the presentation and sensing of virtual reality. My left hand can know where your face is no matter whose gear you wear. The phase (sub)space position of everything in my environment becomes standardized. Virtual reality spaces can be unversally "mounted" in real spaces by transformation across sensors, brands, and brand names. The Tower of Babel is gone in a stroke.
 
@@ -33,6 +51,6 @@ https://github.com/jins-meme/home/wiki
 
 This would get the idea in people's hands before it did their heads. I ask for the priviledge of setting CainZero while using them. All I need for that is the ability one time to grab a phase space point that is "known" relative to some static CMB that can be defined and sensed somewhere. The firmer tied to our GPS system that can be the better.  Publish that here and it's done. Then zero in Cain space, CainZero, can become a transformed point from that point by declaration. A transform choice to be carefully made.
 
-Does anyone who stumbles here know where I could get my hands on a perfectly good, used even, phase space point measurement registered somewhere from such a CMB space and related to our GPS system?  The more recent the better.  Anybody well versed in transformations that could help me select a point relative to that?  Once set its use can immediately begin.  The device sensor can use whatever is the best global positioning channel available but its resolution partially governs the precision within which realities can be made to match.  Near field matching should be a piece of cake regardless of the global accuracy.
+Does anyone who stumbles here know where I could get my hands on a perfectly good, used even, phase space point measurement registered somewhere from such a CMB space?  The more recent the better.  Anybody well versed in transformations that could help me select a point relative to that?  Once set its use can immediately begin.  The device sensor can use whatever is the best global positioning channel available but its resolution partially governs the precision within which realities can be made to match.  Near field matching should be a piece of cake regardless of the global accuracy.
 
 Babylonians invented zero. Let's give it meaning once and for all. Help me set and use CainZero.
