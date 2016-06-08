@@ -58,3 +58,5 @@ Does anyone who stumbles here know where I could get my hands on a perfectly goo
 This in the end could be Internet n.0 where I don't know quite what n is.  Its uniqueness as a universally addressable virtual ether can be guaranteed by declaration. It can be kept universe stable and physically tracking "Real Reality" if it's adjustable with feedback.  Multiple disjoint virtual ethers should be possible rooted in this unique one time capture of "Reality".  These latter can be set up as transform filters and cross referenced functionally.  Phase space is a magic carpet.  As I think I might have said, the practical link to quantum mechanics is as close as possible.
 
 Babylonians invented zero. Let's give it meaning once and for all. Help me set and use CainZero.
+
+This isn't a bad room to think in aloud.
