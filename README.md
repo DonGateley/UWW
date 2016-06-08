@@ -23,9 +23,9 @@ CainMomentum1 = CainXform(Cain1, CainMomentum(CainXform1) is instantaneous momen
 
 CainXform3 = CainPoissonBracket(CainXform1, CainXform2) has the usual definition of Poisson Bracket.
 
-(Definitions of generating functions and Actions to follow.) https://en.wikipedia.org/wiki/Canonical_transformation.  One can use libraries of canonical transformation tools with a bridge between.  Perhaps such an environment would be the best place to put this.  Anybody know of an existing canonical transform library for Hamiltonian mechanics? 
+(Definitions of generating functions and Actions to follow.) https://en.wikipedia.org/wiki/Canonical_transformation.  One can use libraries of canonical transformation tools with a bridge between.  Perhaps such an environment would be the best place to put this.  Anybody know of an existing canonical transform library for Hamiltonian mechanics?  
 
-http://www.thp.uni-koeln.de/gross/files/diplom.pdf goes deep into that.  Uses Mathematica which could be problematic if my RaspBerry Pi 3 with latest Raspbian didn't have that as well as full net access.  I might could just fire that up and see what it can do.  Long potential diversion here.  Later.  Anyone?
+http://www.thp.uni-koeln.de/gross/files/diplom.pdf goes deep into that.  Uses Mathematica which could be problematic if my RaspBerry Pi 3 with latest Raspbian didn't have that as well as full net access.  I might could just fire that up and see what it can do.  The paper tells me that the proper framework for defining and operating on all this is Mathematica.  With it and the packages he has added one can do anything I've contemplated here.  Connect that to a data source and this is under way.  I just wish I was facile in Mathematica.  Anyone?  Some kind of simpler and more specific API such as I've started is also in order.
 
 It could (should) be a standard for the presentation and sensing of virtual reality. My left hand can know where your face is no matter whose gear you wear. The phase (sub)space position of everything in my environment becomes standardized. Virtual reality spaces can be unversally "mounted" in real spaces by transformation across sensors, brands, and brand names. The Tower of Babel is gone in a stroke.
 
