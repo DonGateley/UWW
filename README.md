@@ -101,8 +101,8 @@ The existence statement: By commiting the JavaScript CainBang.js file at GitHub 
 
 Anybody with the CainZero event is on the magic carpet should they wish to avail themselves or play in it a bit.  Usage details to follow.  It will have p(3),Q(6) and t(1) or 10 double integers worth of data for an event in Cain Space.  The origin, of course, is a bit pattern of zeros.  Transforming that later to some actual, available if possible, CMB measurement called CainCMB will create an imaginary/real physical universe correspondence that can be refined.  That is where one would want to play for VR or geophyiscal application.  That will be my operating universe and soon can easily be yours too. For a while at least it's bit pattern is also binary zero.
 
-So go to CainCMB (currently coincident with CainZero and containing the null or all zero data pattern.) and meet me there to get an enlightening and functional view of space time.  There's nothing there yet and only I am accessing it.  It is completely unrestricted and still largely useless.  Improvements in that situation, like exactly how to get there, will be announced here.
+So go to CainCMB (currently coincident with CainZero and containing the null or all zero data pattern.) and meet me there to get an enlightening and functional view of space time.  There's nothing there yet and only I am accessing it.  It is and will remain completely unrestricted and is still largely useless.  Improvements in that situation, including exactly how to get there and do something, will be announced here.
 
-Babylonians invented zero. Let's give it meaning once and for all. Help me set and use CainZero.
+Babylonians invented zero. Let's give it meaning once and for all.
 
 This isn't a bad room to think in aloud.  I commit to posterity that everything about the room will remain free and open.  If courteous.
