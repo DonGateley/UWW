@@ -5,9 +5,9 @@ What it takes to anchor spacetime is the act of defining some specific event in 
 
 I can see their use, for example, with blockchain or other crypto technologies where consistency, reliability and utility of meaning is important.
 
-Canonical phase space transformations (Hamiltonian) between universal phase space points can be thought of or applied as services if you have common coin and a common map. That can't be a burdensome process though. Transform decompositions and optimizations must abound. 
+Canonical Hamiltonian phase space transformations between universal phase space points can be thought of or applied as services if you have common coin and a common map. That can't be a burdensome process though. Transform decompositions and optimizations must abound.  Arithmetic must be quick. 
 
-Smartphones (and other systems) should have a Cain1 = CainEvent(CainXform1) system call that returns an immutable token, type CAINEVENT, in Cain1 for an event representing a transformation of the current approximate coordinate of the device in Cain space. A CAINEVENT and a CAIN are the same object except that a CAIN cannot be made into a CAINEVENT, CAINEVENTS are immutable and are the same as a measurement.  A CAIN has the three standard components of a phase space measurement: p, position Q, momentum vector and t, time. p q and t are the only things in a CAIN.  Large integers suggest themselves for representation.  How large?  There are 4.35E60 Planck units of time since the big bang.  The size of the visible universe is 5.5E61 Planck units of length.  There are 3+6+1 = 10 individual pieces of information.  If double ints are used that's 640 bits of entropy.  The future range of time is 4600 times the current age of the universe.  The range of addressable space outside the visible universe is 364 times its size.  This should be adequate and sufficient and even allows for the use of speedy residue arithmetic for + and *.
+Smartphones (and other systems) should have a Cain1 = CainEvent(CainXform1) system call that returns an immutable token, type CAINEVENT, in Cain1 for an event representing a transformation of the current approximate coordinate of the device in Cain space. A CAINEVENT and a CAIN are the same object except that a CAIN cannot be made into a CAINEVENT, CAINEVENTS are immutable and are the same as a measurement.  A CAIN has the three standard components of a Hamiltonian phase space measurement: p, position Q, momentum vector and t, time. p q and t are the only things in a CAIN.  More complex objects can grow around them.  Units will be Planck length and time.  Finer is futile.  Large integers suggest themselves for internal representation.  How large?  There are 4.35E60 Planck units of time since the big bang, fits in a double int.  The size of the visible universe is 5.5E61 Planck units of length, also fits in a double int.  There are 3+6+1 = 10 individual pieces of information.  If double ints are used that's 640 bits of entropy.  The future range of time is 4600 times the current age of the universe.  The range of addressable space outside the visible universe is 364 times its size down to the Planck length where it becomes physically pointless to go any further.  This should be adequate and sufficient and even allows for the use of speedy residue arithmetic for + and *.  I don't remember what the best mutually prime factors of two integers is and whether that's big enough.
 
 Instantiations of type CAINXFORM can hold any standard canonical phase space transformation and they can be composed as 
 
@@ -15,7 +15,7 @@ CainXform3 = CainCompose(CainXform1, CainXform2,...)
 
 Cain2 = CainXform(Cain1, CainXform1) applies CainXform1 to Cain1 where Cain1 is type CAIN or CAINEVENT and the return is an event of type CAIN.
 
-Cain2 = Cain1.CainEntropy(Entropy) fuzzes the event.  (plops a random number into the low order "Entropy" bits of representation.  Can be used to create a random Cain space event if "Entropy" is zero.)
+Cain2 = Cain1.CainFuzz(Entropy) fuzzes the event.  (plops a random number into the low order "Entropy" bits of representation.  Can be used to create a random Cain space event if "Entropy" is zero.)
 
 Functions are the usual Hamiltonian ones and obey Hamilton's Principle.
 
@@ -23,9 +23,13 @@ CainXform2 = CainXform1.CainDot is the time derivative of the transform CainXfor
 
 CainXform3 = CainXform1.CainDotProd(CainXform2) has the ususal dot product meaning.
 
-DATA = CainXform1.CainPosition is instantaneous Minkowski position of token Cain1 transformed by CainXform1 in Cain space.
+DATA = Cain1.CainPosition is instantaneous Minkowski position of event Cain1 in Cain space.
 
-DATA = CainXform1.CainMomentum is instantaneous Minkowski momentum of token Cain1 transformed by CainXform1 in Cain space.
+DATA = Cain1.CainMomentum is instantaneous Minkowski momentum of event Cain1 in Cain space.
+
+CainXform2 = CainXform1.CainPosition is a transform for conversion of any CAIN to the Minkowski position in Cain space.
+
+CainXform2 = CainXform1.CainMomentum is a transform for conversion of any CAIN to the Minkowski momentum in Cain space.
 
 CainXform2 = CainXform1.CainPoissonBracket(CainXform2) has the usual definition of Poisson Bracket.
 
@@ -72,6 +76,12 @@ Does anyone who stumbles here know where I could get my hands on a perfectly goo
 This in the end could be Internet n.0 where I don't know quite what n is.  Its uniqueness as a universally addressable virtual ether can be guaranteed by declaration. It can be kept universe-stable and physically tracking (or hugging) "Real Reality" if it's adjustable with feedback transforms.  Multiple disjoint virtual ethers should be possible rooted in this unique one time capture of "Reality" or in any other such virtual ether.  These latter can be set up as real time transform filters with subspaces, and cross referenced functionally.  Phase space is a magic carpet and with an anchor it becomes frighteningly useful.  As I think I might have said, the practical link to quantum mechanics is as close as possible.  The thing is fully adaptable and capable of maintaining its own conformance to measurable reference things.  Beeables.  By using phase space a world of simulation is opened up immediately if someone knows how to find a way to get access and a bridge to it.  Prognostication becomes formalized.  I'll bet that capability is in the cloud somewhere as a service.  (All right, this could be called "Tron n" but I'd rather keep an innocuous name.)
 
 Can Bayesian calculation be factored into this?  A QBist's workshop.  Anyone?
+
+Need to add world lines and their construction.  Biggie, that.  That may be in the reference.  World line networks allow for conditional forking.  The world line system must support a node edge/representation with Hamiltonian actions/functions/generating-functions at nodes and perhaps at edges.  Where stored again.  Locally again.  Suck up to using all local storage for persistence.  Any device or user employing the package accepts the responsibility for his own shit and presumes that it can be moved around elsewhere.  
+
+The system outboard of the user is completely imaginary and occupies no resources.  It simply can't go down.  Distribution of the CainSpace state is under user control and physically exists anywhere they want it to.  No login needed, all that happens inside.  A restricted access control can be fabricated inside an event.  What can an anonymous login do.  Well, anything he's allowed to do by specifying an event as his access point.  Can he write scripts and create measurements and world lines etc?  How about protecting existing content from a wide open work space?  If you don't know an access point you can't use it or abuse it.  If you do you play by its rules when communicating with it.
+
+Down to what the REPL ought to be and how to get something across two devices elegantly.  The former suggests a JavaScript debugger or IDE to build up what base functionality I described above.  The latter has me clueless.
 
 Babylonians invented zero. Let's give it meaning once and for all. Help me set and use CainZero.
 
