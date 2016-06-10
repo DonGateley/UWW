@@ -5,10 +5,38 @@ url = require("url"),
 filesys = require("fs")
 ;
 
-//var cainEvent cainZero=0;
-cainZero=0;
-//var cainEvent cainCMB=0;
-cainCMB=0;
+//Defining a function.  Function can be used after definition so they will be at the start.
+//<script>
+function cainFuzz(parameter) {
+//invoked on a cain and fuzzes it about its coordinates to within a tolerance.  Can also be a member function.
+	var variable = 0;
+	variable = parameter;
+	return variable;
+}
+//</script>
+
+//Create the cain event object
+var cainEvent = {
+	pX: 0,
+	pY: 0,
+	pZ: 0,
+	qX: [0, 0],
+	qY: [0, 0],
+	qZ: [0, 0],
+	qt: [0],
+	d: []
+};
+
+//Create the cain transform object
+var cainXform = {
+	d: cainEvent
+};
+
+//The Universe
+var cainEvent new cainZero;
+
+//Real Reality.
+var cainEvent new cainCMB;
 
 //Define the dynamic transform between cainCMB
 //and a sweetened, hallowed version of where
@@ -18,13 +46,5 @@ cainCMB=0;
 //Real (as opposed to Virtual) Reality upon which we 
 //agree to agree.
 
-//var cainEvent cainRealRealityX = 0;
-cainRealRealityX = 0;
-
-//HERE
-//Before I can put anything at all into a cainEvent I need to create the object cainEvent.
-//Do variables and types share a name space?  If not, it's cainEvent for the type name too.
-//Make the members for addition, subtraction, multiplication, and division tight to the hardware.
-//Zero assignment calls object initializer which might do something different.  Hopefully not.
-
-//Get to objects in JavaScript quickly now.
+//Real Reality Transform
+var cainXform new cainRealRealityX;
