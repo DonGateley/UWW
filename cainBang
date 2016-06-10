@@ -1,0 +1,18 @@
+var sys = require("util"),
+my_http = require("http"),
+path = require("path"),
+url = require("url"),
+filesys = require("fs")
+;
+
+cainZero=0;
+cainCMB=0;
+
+//Define the dynamic transform between cainCMB
+//and a sweetened, hallowed version of where
+//the universe is pinned and centered.  Jitter
+//or judder here is a very, very bad thing.
+//  
+//Real (as opposed to Virtual) Reality upon which we 
+//agree to agree.
+cainRealRealityX = 0;
