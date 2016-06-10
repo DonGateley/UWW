@@ -44,7 +44,7 @@ var cainEvent new cainCMB;
 //or judder here is a very, very bad thing.
 //  
 //Real (as opposed to Virtual) Reality upon which we 
-//agree to agree.
+//agree to agree.  Starts null.
 
 //Real Reality Transform
 var cainXform new cainRealRealityX;
