@@ -5,8 +5,10 @@ url = require("url"),
 filesys = require("fs")
 ;
 
-var cainEvent cainZero=0;
-var cainEvent cainCMB=0;
+//var cainEvent cainZero=0;
+cainZero=0;
+//var cainEvent cainCMB=0;
+cainCMB=0;
 
 //Define the dynamic transform between cainCMB
 //and a sweetened, hallowed version of where
@@ -15,7 +17,10 @@ var cainEvent cainCMB=0;
 //  
 //Real (as opposed to Virtual) Reality upon which we 
 //agree to agree.
-var cainEvent cainRealRealityX = 0;
+
+//var cainEvent cainRealRealityX = 0;
+cainRealRealityX = 0;
+
 //HERE
 //Before I can put anything at all into a cainEvent I need to create the object cainEvent.
 //Do variables and types share a name space?  If not, it's cainEvent for the type name too.
